@@ -1,0 +1,12 @@
+googole drive file upload
+---------------------------
+
+step 1:-
+go to the google drive -> then create a folder in the drive->copy the folder id from url
+
+step 2:-
+In chrome open https://console.cloud.google.com/ ->
+ then go to API as service->then search google drive select google drive api->
+ then enable the drive->go to credentials->click manage service ac->c
+ lick service account ->click create and contineue->select editor->
+ click contineue->click the url->add key->create key->download json
